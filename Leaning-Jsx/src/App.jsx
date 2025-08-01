@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  const element1 = <h2>Hello, World</h2>;
+  const element1 = <h2>hello, world</h2>;
   const element2 = (
     <ul>
       <li>A</li>
